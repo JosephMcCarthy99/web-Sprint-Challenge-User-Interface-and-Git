@@ -38,13 +38,20 @@ Semantic HTML is the structure or backbone of our website.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
+Display: block width is the defualt of the contaainer.
+Diplay: inline forces a line break.
+
 
 
 3. What are the 4 areas of the box model?
+Margin, border, padding and content
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+The cross axis
 
 5. Explain why git is valuable to a team of developers.
+
+Git is valuable as it a collection of repositiories that you can look at the history of the code and what has been changed overtime
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
